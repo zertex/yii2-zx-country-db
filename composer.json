@@ -1,5 +1,10 @@
 {
   "name": "zertex/yii2-zx-country-db",
   "keywords": ["maxmind"],
-  "version": "1.0.1"
+  "version": "1.0.1",
+  "extra": {
+    "branch-alias": {
+        "dev-master": "1.0.x-dev"
+    }
+  }
 }
